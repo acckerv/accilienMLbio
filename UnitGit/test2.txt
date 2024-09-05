@@ -1,3 +1,5 @@
 Making a new file and adding some text to it.
 
-conflict by Roy
+<<<<<<< HEAD
+solving conflict
+>>>>>>> 1cf93af73796e72d8564f0e148c325b602d414ee
