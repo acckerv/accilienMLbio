@@ -1,3 +1,8 @@
+#DAN: Reuman comments on git assignment
+#Everything looks good but I don't see changing a file name with git mv
+#Grade: S (though I know you are an auditor)
+
+
 this is a test file to practice using git. 
 Make some changes to test.txt.
 
